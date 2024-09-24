@@ -1,6 +1,6 @@
 ### Whoami 
 * Penetration Tester | Red Teamer
-* Certifications: OSCP | OSEP | OSWE | GXPN | GCFE | CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWPT
+* Certifications: OSCP | OSEP | OSWE | GXPN | GCFE | CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT
 
 ### Training
 I am on [Hack The Box](https://www.hackthebox.eu/). My Profile:
