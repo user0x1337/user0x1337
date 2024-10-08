@@ -1,5 +1,5 @@
 ### Whoami 
-* Penetration Tester | Red Teamer
+* Penetration Tester | Red Teamer | IT-Security Analyst
 * Certifications: OSCP | OSEP | OSWE | GXPN | GCFE | CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT
 
 ### CVEs / Reported Security Vulnerabilities
