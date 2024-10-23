@@ -8,7 +8,7 @@
 * [CVE-2024-47950](https://nvd.nist.gov/vuln/detail/CVE-2024-47950) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03
 * [CVE-2024-48578](https://www.cve.org/CVERecord?id=CVE-2024-48578) in [P2Podder](https://www.p2tools.de/p2podder/) <= Version 1
 * [CVE-2024-48429](https://www.cve.org/CVERecord?id=CVE-2024-48429) in [P2Radio](https://www.p2tools.de/p2radio/) <= 6__2023.01.22
-* 
+  
   
 ### Training
 I am on [Hack The Box](https://www.hackthebox.eu/). My Profile:
