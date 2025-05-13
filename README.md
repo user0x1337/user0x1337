@@ -3,13 +3,13 @@
 * Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT 
 
 ### CVEs / Reported Security Vulnerabilities
-* [CVE-2024-47948](https://nvd.nist.gov/vuln/detail/CVE-2024-47948) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://user0x1337.github.io/Blog/portfolio/cve-2024-47948/)
-* [CVE-2024-47949](https://nvd.nist.gov/vuln/detail/CVE-2024-47949) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03
-* [CVE-2024-47950](https://nvd.nist.gov/vuln/detail/CVE-2024-47950) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03
+* [CVE-2024-47948](https://nvd.nist.gov/vuln/detail/CVE-2024-47948) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-47948/)
+* [CVE-2024-47949](https://nvd.nist.gov/vuln/detail/CVE-2024-47949) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-47949/)
+* [CVE-2024-47950](https://nvd.nist.gov/vuln/detail/CVE-2024-47950) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-47950/)
 * [CVE-2024-48578](https://www.cve.org/CVERecord?id=CVE-2024-48578) in [P2Podder](https://www.p2tools.de/p2podder/) <= Version 1
 * [CVE-2024-48429](https://www.cve.org/CVERecord?id=CVE-2024-48429) in [P2Radio](https://www.p2tools.de/p2radio/) <= 6__2023.01.22
-* [CVE-2024-56353](https://nvd.nist.gov/vuln/detail/CVE-2024-56353) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.12, Blog post: [here](https://user0x1337.github.io/Blog/portfolio/cve-2024-56353/)
-  
+* [CVE-2024-56353](https://nvd.nist.gov/vuln/detail/CVE-2024-56353) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.12, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-56353/)
+*   
   
 ### Training
 I am on [Hack The Box](https://www.hackthebox.eu/). My Profile:
