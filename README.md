@@ -1,6 +1,6 @@
 ### Whoami 
 * Penetration Tester | Red Teamer | IT-Security Analyst
-* Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT 
+* Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT | GRID
 
 ### CVEs / Reported Security Vulnerabilities
 * [CVE-2024-47948](https://nvd.nist.gov/vuln/detail/CVE-2024-47948) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-47948/)
