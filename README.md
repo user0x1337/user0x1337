@@ -1,6 +1,7 @@
 ### Whoami 
 * Penetration Tester | Red Teamer | IT-Security Analyst
 * Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT | GRID
+* Blog: [https://blog.siegbert-security.de/](https://blog.siegbert-security.de/) (in German)
 
 ### CVEs / Reported Security Vulnerabilities
 * [CVE-2024-47948](https://nvd.nist.gov/vuln/detail/CVE-2024-47948) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2024.07.03, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2024-47948/)
@@ -17,7 +18,3 @@
 I am on [Hack The Box](https://www.hackthebox.eu/). My Profile:
 <br><br>
 [ ![user0x1337](https://www.hackthebox.eu/badge/image/1384778)](https://app.hackthebox.com/profile/1384778)
-
-### Blog
-Here is my blog:
-[https://blog.siegbert-security.de/](https://blog.siegbert-security.de/)(in German)
