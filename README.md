@@ -1,6 +1,6 @@
 ### Whoami 
-* Penetration Tester | Red Teamer | IT-Security Analyst
-* Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT | GRID
+* Penetration Tester | Red Teamer | IT-Security Analyst | IT-Security Consultant | IT-Security Researcher
+* Certifications: OSCP | OSEP | OSWE | OSED | OSCE³ | GXPN | GCFE | HTB CBBH | GPEN | CompTIA Pentest+ | GREM | GPYC | GWAPT | GRID | GRTP | GCFA
 * Blog: [https://blog.siegbert-security.de/](https://blog.siegbert-security.de/) (in German)
 
 ### CVEs / Reported Security Vulnerabilities
