@@ -13,6 +13,7 @@
 * [CVE-2025-54531](https://nvd.nist.gov/vuln/detail/CVE-2025-54531) in [Jetbrains TeamCity](https://www.jetbrains.com/privacy-security/issues-fixed/) before 2025.07, Blog post: [here](https://blog.siegbert-security.de/portfolio/cve-2025-54531/)
 ### Bug Bounties 
 * 2023: [EC-Council Hall of Fame](https://www.eccouncil.org/bug-bounty/hall-of-fame/)
+* [YesWeHack](https://yeswehack.com/hunters/user0x1337)
   
 ### Training
 I am on [Hack The Box](https://www.hackthebox.eu/). My Profile:
